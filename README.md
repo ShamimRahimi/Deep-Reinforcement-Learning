@@ -10,8 +10,6 @@
 - [Evaluation](#evaluation)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Author](#author)
-- [License](#license)
 
 ## Introduction
 
@@ -53,3 +51,9 @@ Install the required libraries:
 pip install gym[atari,accept-rom-license]
 pip install imageio
 pip install torch torchvision torchaudio
+
+## Usage
+
+1. Clone the repository.
+2. Install the required libraries.
+3. Run the Jupyter notebook or the provided Python scripts to train the agent and evaluate its performance.

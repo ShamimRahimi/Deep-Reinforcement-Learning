@@ -51,7 +51,7 @@ Install the required libraries:
 pip install gym[atari,accept-rom-license]
 pip install imageio
 pip install torch torchvision torchaudio
-
+```
 ## Usage
 
 1. Clone the repository.
